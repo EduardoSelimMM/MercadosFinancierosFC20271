@@ -19,7 +19,7 @@ Esta es
 La mayoría de los conceptos estudiados también se implementarán en los lenguajes de programación R (posit.co) y Python (colab.research.google.com) como calculadora, graficador, optimizador y solver.
 
 ## 🤓 Dinámica de las sesiones 🤓
-Las sesiones teóricas y prácticas se llevarán a cabo de manera síncrona de 8:00 a 9:00 de la mañana presencialmente (según las indicaciones de la Universidad). Toda comunicación e intercambio de archivos se llevará a cabo a través de Google Classroom (allí se distribuirán tareas, mensajes, notas de clase, etc). También se dejarán algunas lecturas y videos para reforzar lo visto durante la clase.\\
+Las sesiones teóricas y prácticas se llevarán a cabo de manera síncrona de 7:00 a 8:00 de la mañana presencialmente (según las indicaciones de la Universidad). Toda comunicación e intercambio de archivos se llevará a cabo a través de Google Classroom (allí se distribuirán tareas, mensajes, notas de clase, etc). También se dejarán algunas lecturas y videos para reforzar lo visto durante la clase.\\
 
 ### Requisitos sugeridos:
 Cálculo Diferencial e Integral II y Álgebra Superior II.
@@ -29,7 +29,7 @@ Cálculo Diferencial e Integral II y Álgebra Superior II.
 # 🎖 EVALUACIÓN 🎖
 El curso será evaluado de la siguiente manera:
 
-+ Laboratorios/Prácticas/Proyectos de R: En equipos de a los más 4 integrantes y cuyo valor será el 20\% de la calificación final. 2 prácticas aproximadamente.
++ Laboratorios/Prácticas/Proyectos de R y Python: En equipos de a los más 4 integrantes y cuyo valor será el 20\% de la calificación final. 2 prácticas aproximadamente.
 + Cuatro exámenes parciales: De manera individual en el salón de clases, cuyo valor es del 80\% de la calificación final
 + Habrá dos reposiciones y un examen final (el mismo día).
 + La escala de calificaciones en la siguiente:
